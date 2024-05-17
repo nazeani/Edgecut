@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|solutionrelative:core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\services\\abstracts\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\services\\concrates\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\services\\concrates\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\data\\repositoryconcrates\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|solutionrelative:data\\repositoryconcrates\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\data\\repositoryconcrates\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|solutionrelative:data\\repositoryconcrates\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\edgecutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\edgecutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\exceptions\\imagelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\exceptions\\imagelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\business\\exceptions\\imagecontextexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B983F3-7AF5-4CCB-917F-B2ECFB72C020}|Business\\Business.csproj|solutionrelative:business\\exceptions\\imagecontextexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\core\\repositoryabstracts\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE50833-D708-42DD-8391-CBD388935CD4}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\edgecutmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2294569C-676F-4DCE-BB4F-ED6BE0364C00}|EdgecutMVC\\EdgecutMVC.csproj|solutionrelative:edgecutmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\edgecutmvc\\data\\migrations\\20240517060334_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DC7E88-5FED-4842-A0C2-FC379F6CED00}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240517060334_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAqwGYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:38:21.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Services\\Concrates\\BlogService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrates\\BlogService.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Services\\Concrates\\BlogService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrates\\BlogService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:27:32.234Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Services\\Abstracts\\IBlogService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Services\\Abstracts\\IBlogService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IBlogService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:26:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\RepositoryConcrates\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcrates\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\RepositoryConcrates\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcrates\\GenericRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:23:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:19:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:28:03.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T06:31:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Core\\Models\\Blog.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:18:12.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:17:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T05:05:27.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T05:05:31.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\RepositoryConcrates\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcrates\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\RepositoryConcrates\\BlogRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcrates\\BlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:24:20.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:38:37.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Delete.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T06:31:44.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T06:30:55.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T20:13:45.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:37:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:36:10.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAACcBAAAAAAAAAAAcwDgBAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:37:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:36:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Program.cs",
+              "RelativeToolTip": "EdgecutMVC\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:39:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAvwJQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:35:40.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240517060334_1.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\Migrations\\20240517060334_1.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240517060334_1.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\Migrations\\20240517060334_1.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240517060334_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:03:35.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EdgecutMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\appsettings.json",
+              "RelativeToolTip": "EdgecutMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T04:52:56.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EdgecutMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:58:37.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAAACwBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:58:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EdgecutMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\EdgecutMVC.csproj",
+              "RelativeDocumentMoniker": "EdgecutMVC\\EdgecutMVC.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\EdgecutMVC.csproj",
+              "RelativeToolTip": "EdgecutMVC\\EdgecutMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T20:05:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "EdgecutMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "EdgecutMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T20:34:24.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:32:27.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:25:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ImageLengthException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\ImageLengthException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ImageLengthException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\ImageLengthException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ImageLengthException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:16:28.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ImageContextException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\ImageContextException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ImageContextException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Business\\Exceptions\\ImageContextException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ImageContextException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:14:28.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:21:46.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:20:51.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:30:20.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EdgecutMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\EdgecutMVC\\EdgecutMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EdgecutMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T19:58:52.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
